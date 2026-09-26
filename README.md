@@ -12,8 +12,8 @@
   <a href="https://www.facebook.com/duvidu.lasath" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.fiverr.com/s/7jYyQ8E" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  <a href="https://www.fiverr.com/yumstix" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Yumstix | Fiverr" />
   </a>
   <a href="https://www.fiverr.com/agencies/dlabsstudio" target="_blank">
     <img src="https://img.shields.io/badge/D%20Labs%20Studio-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="D Labs Studio | Fiverr" />
