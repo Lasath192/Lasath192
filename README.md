@@ -33,7 +33,11 @@
 
 - **General Sir John Kotelawala Defence University** — BSc (Hons) in Data Science and Business Analytics (Oct 2024 – Jan 2029)
 - **Simplilearn** — Introduction to Numpy Certification
-- **Kaggle** — Pandas Certification 
+- **Kaggle** — Pandas Certification
+- **Udemy** —  Learn Laravel Vuejs from scratch - Build a TESLA web app
+- **Udemy** —   Python In Practice : 15 Projects to Master Python
+- **Udemy** —  SEO Strategy 2025. SEO training to Unleash Career Potential
+- **Udemy** —  Generative AI for Digital Marketing: From Basics to Pro
 - **NASA** — Steward of Pixel #00284982 (Nancy Grace Roman Space Telescope - Adopt a Pixel Campaign)
 - **International Astronomical Search Collaboration (IASC)** — Citizen Scientist (Asteroid Search Campaign)
 
