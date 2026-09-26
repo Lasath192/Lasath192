@@ -32,7 +32,8 @@
 ### 🎓 Education & Certifications
 
 - **General Sir John Kotelawala Defence University** — BSc (Hons) in Data Science and Business Analytics (Oct 2024 – Jan 2029)
-- **Simplilearn** — Introduction to Numpy Certification 
+- **Simplilearn** — Introduction to Numpy Certification
+- **Kaggle** — Pandas Certification 
 - **NASA** — Steward of Pixel #00284982 (Nancy Grace Roman Space Telescope - Adopt a Pixel Campaign)
 - **International Astronomical Search Collaboration (IASC)** — Citizen Scientist (Asteroid Search Campaign)
 
